@@ -1,0 +1,30 @@
+{
+    "categorical_features": [
+        "client_type",
+        "gender",
+        "country",
+        "region",
+        "acquisition_purpose",
+        "loan_applied",
+        "referral_channel",
+        "preferred_unit_category"
+    ],
+    "numeric_features": [
+        "satisfaction_score",
+        "age",
+        "total_properties_bought",
+        "total_investment",
+        "avg_property_price",
+        "max_property_price",
+        "min_property_price",
+        "avg_floor_area_sqft",
+        "total_floor_area_sqft",
+        "investment_per_sqft",
+        "avg_price_per_sqft",
+        "purchase_duration_days"
+    ],
+    "final_k": 4,
+    "final_kmeans_silhouette_score": 0.11061316286138376,
+    "hierarchical_silhouette_score": 0.0916490652406165,
+    "adjusted_rand_score_kmeans_vs_hierarchical": 0.23196307803287528
+}

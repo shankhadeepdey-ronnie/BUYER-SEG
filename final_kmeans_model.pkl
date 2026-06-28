@@ -1,0 +1,6 @@
+{
+    "0": "Mid-Value Home Buyers",
+    "1": "High-Value Bulk Investors",
+    "2": "Luxury Space Buyers",
+    "3": "Budget-Conscious Home Buyers"
+}
